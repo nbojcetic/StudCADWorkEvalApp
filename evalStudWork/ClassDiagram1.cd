@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="evalStudWork.Attribute">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACEAAAAAAAAAAAAAAAAAAAAAACEACAAAAAAAAAAACA=</HashCode>
+      <FileName>Attribute.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.Dimension" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAFACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dimension.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.Equation" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAQAAAAAAAAEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Equation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.EvalStudWork" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAYAAIAJGCSAAYQAIAhAAAIEAkAAAAAAAAABA=</HashCode>
+      <FileName>EvalStudWork.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.Feature" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAABAAAAAAgAAIAAAAAAFAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Feature.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.Geometry" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAKAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geometry.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.Part" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAIAAAAEAAAASAACAAAAVAQAAAAAAAABCAAI=</HashCode>
+      <FileName>Part.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.reportItem">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAAAAEAAAAAAAAAAAQAUCAAAAAQAAAAAQIA=</HashCode>
+      <FileName>reportItem.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.Sketch">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sketch.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.TableData">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAIAAAAAAAAYAAAgIAAEAAUGCAAAAAgAAACBQA=</HashCode>
+      <FileName>TableData.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="evalStudWork.My.MySettings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="evalStudWork.My.Resources.Resources">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="evalStudWork.My.MySettingsProperty">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

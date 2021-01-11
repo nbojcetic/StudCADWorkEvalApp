@@ -1,0 +1,13 @@
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\bin\Debug\evalStudWork.dll.config
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\bin\Debug\evalStudWork.dll
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\bin\Debug\evalStudWork.pdb
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\bin\Debug\evalStudWork.xml
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\bin\Debug\PdfSharp.dll
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\bin\Debug\PdfSharp.pdb
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\bin\Debug\de\PdfSharp.resources.dll
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\obj\Debug\evalStudWorknmspc.vbprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\obj\Debug\evalStudWork.Resources.resources
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\obj\Debug\evalStudWorknmspc.vbproj.GenerateResource.Cache
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\obj\Debug\evalStudWork.dll
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\obj\Debug\evalStudWork.xml
+E:\Visual Studio Projects\Projects\evalStudWork\evalStudWork\obj\Debug\evalStudWork.pdb
